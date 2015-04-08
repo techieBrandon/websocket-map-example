@@ -1,0 +1,14 @@
+*.un~
+.DS_Store
+.classpath
+.gradle/
+.project
+.settings/
+.springBeans
+.tmp
+bin
+*/bower_components
+build/
+node_modules/
+
+src/main/resources/static/*
